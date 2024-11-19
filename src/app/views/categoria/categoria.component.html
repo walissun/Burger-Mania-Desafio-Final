@@ -1,0 +1,20 @@
+<h2 class="title">CATEGORIA: {{ categoriaAtual?.name }}</h2>
+
+<div *ngIf="categoriaAtual; else notFound" class="menuCategoria">
+  <app-card
+    *ngFor="let item of categoriaAtual.items"
+    [title]="item.title"
+    [description]="item.description"
+    [imageUrl]="item.imageUrl"
+    (click)="navigateToProduct(item.title)">
+  </app-card>
+</div>
+
+
+<ng-template #notFound>
+  <p>Náo acho nescessario essa page</p>
+</ng-template>
+
+<div class="button-container">
+  <app-button label="VER CARDÁPIO COMPLETO" type="filled" size="large"></app-button>
+</div>
