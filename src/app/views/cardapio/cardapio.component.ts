@@ -18,17 +18,17 @@ export class CardapioComponent {
     {
       title: 'X-Vegan',
       description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
-      imageUrl: '/burgeust.png'
+      imageUrl: '/burgeus.png'
     },
     {
       title: 'X-Fitness',
       description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
-      imageUrl: '/burgeust.png'
+      imageUrl: '/burgeus.png'
     },
     {
       title: 'X-Infarto',
       description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
-      imageUrl: '/burgeust.png'
+      imageUrl: '/burgeus.png'
     }
   ];
 
