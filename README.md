@@ -2,22 +2,22 @@
 
 ## Funcionalidades
 
-- **Componentização**: Contém componentes reutilizáveis, como Header, Botão, Card, Descrição e Input.
-- **Roteamento**: Navegação entre as páginas de Pedido e Cardápio, com suporte a categorias específicas.
-- **Estilos Globais com Variáveis CSS**: Define variáveis para cores e tipografia, aplicadas em todos os componentes.
+- **Componentização**: Utiliza componentes reutilizáveis como Header, Botão, Card, Descrição e Input, promovendo a consistência e reutilização de código.
+- **Roteamento**: Permite navegação fluida entre as páginas de Pedido e Cardápio, incluindo suporte para visualização de categorias específicas.
+- **Estilos Globais com Variáveis SCSS**: Adota variáveis de CSS para cores e tipografia, garantindo uniformidade no design de todos os componentes.
+- 
+## Organização do Projeto
 
-## Estrutura do Projeto
-
-- **src/app/components**: Contém os componentes reutilizáveis (Header, Botão, Card, Descrição e Input).
-- **src/app/pages**: Contém as páginas principais do projeto (Pedido, Cardápio, Categoria).
-- **src/styles.css**: Arquivo de estilos globais, onde estão definidas as variáveis CSS.
+- **src/app/components**: Diretório dedicado aos componentes reutilizáveis, como Header, Botão, Card, Descrição e Input.
+- **src/app/pages**: Reúne as páginas principais do projeto, incluindo Pedido, Cardápio e Categoria.
+- **src/styles.css**: Arquivo com os estilos globais e definição de variáveis SCSS.
 
 ## Requisitos do Projeto
 
-- **Página de Pedido**: Exibe informações do pedido.
+- **Página de Pedido**: Apresenta os detalhes do pedido realizado pelo utilizador.
 - **Página de Cardápio**:
-  - Lista categorias de hambúrgueres.
-  - Redireciona para uma página com os itens disponíveis ao selecionar uma categoria.
+  - Mostra uma lista de categorias de hambúrgueres.
+  - Permite a navegação para uma página específica com os itens disponíveis em cada categoria.
 
 ## Configuração Inicial
 
