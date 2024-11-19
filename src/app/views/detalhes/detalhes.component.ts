@@ -28,21 +28,21 @@ throw new Error('Method not implemented.');
           title: 'X-Alface-Premium',
           description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
           description_text: 'Um hambúrguer vegano suculento feito com uma base de grão-de-bico e quinoa, temperado com especiarias defumadas, cebola caramelizada e alho, garantindo uma textura rica e saborosa. Servido em um pão macio, ele vem acompanhado de fatias frescas de tomate, alface crocante, picles, abacate cremoso e uma generosa camada de maionese de ervas vegana. Finalizado com molho barbecue agridoce e uma pitada de pimenta-do-reino moída na hora, proporcionando uma combinação deliciosa de sabores e texturas em cada mordida.',
-          imageUrl: '/burgersCat.png',
+          imageUrl: '/burgeust.png',
           price: '35,00 R$'
         },
         {
           title: 'X-Tomate',
           description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
           description_text: 'Delicioso hambúrguer vegano',
-          imageUrl: '/burgersCat.png',
+          imageUrl: '/burgeust.png',
           price: '35,00 R$'
         },
         {
           title: 'X-Frutas',
           description: 'Pão, Hambúrguer, alface, tomate, queijo e maionese',
           description_text: 'Delicioso hambúrguer vegano',
-          imageUrl: '/burgersCat.png',
+          imageUrl: '/burgeust.png',
           price: '35,00 R$'
         },
       ],
