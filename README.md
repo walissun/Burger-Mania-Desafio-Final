@@ -18,6 +18,10 @@
 - **Página de Cardápio**:
   - Mostra uma lista de categorias de hambúrgueres.
   - Permite a navegação para uma página específica com os itens disponíveis em cada categoria.
+ 
+  ## BackEnd repositorio
+    ```bash
+    https://github.com/walissun/Back-end-Burger-mania/edit/main/README.md
 
 ## Configuração Inicial
 
@@ -25,6 +29,7 @@
    ```bash
    npm install
 2.Inicie o servidor de desenvolvimento:
+
    ```bash
    ng serve
 
