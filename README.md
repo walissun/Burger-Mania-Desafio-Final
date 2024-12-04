@@ -21,7 +21,7 @@
  
   ## BackEnd repositorio
     ```bash
-    https://github.com/walissun/Back-end-Burger-mania/edit/main/README.md
+    https://github.com/walissun/Back-end-Burger-mania
 
 ## Configuração Inicial
 
